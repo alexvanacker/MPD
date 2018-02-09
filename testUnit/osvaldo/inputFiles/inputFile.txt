@@ -1,0 +1,19 @@
+DomainFile cube.cube
+
+WFNFile he-EF-sto6g.wfn
+
+WFNFormatFile Gaussian
+
+BaseType CartesianGaussian
+
+Spin OFF
+           nu 2 
+
+PrintCriter  5
+
+SavingCriter 20 
+
+OptimizationOrder 1
+
+delta 0.
+
