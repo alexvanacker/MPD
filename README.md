@@ -1,5 +1,5 @@
 # MPD
-Maximazing optimal probability domain
+Maximizing optimal probability domain
 
 The MPD program aims to compute the shape of the domain that maximizes the probability to find exactly a certain number of electrons inside it, given a chemical electronic structure.
 
