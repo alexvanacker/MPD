@@ -1,3 +1,6 @@
+# ignore program
+mpdProgram
+bin
 
 # Created by https://www.gitignore.io/api/cmake
 
